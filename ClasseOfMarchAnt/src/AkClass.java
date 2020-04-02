@@ -1,6 +1,5 @@
 
-public class AntenehClass {
-
+public class AkClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("how you doing?");
@@ -13,5 +12,4 @@ public class AntenehClass {
 		
 
 	}
-
 }
