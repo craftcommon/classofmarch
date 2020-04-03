@@ -10,7 +10,7 @@ public class Greeting_from_Netsanet {
 		
 		Scanner in = new Scanner(System.in);
 		
-		System.out.println("Please enter your name: ");
+		System.out.println("Please enter your name!: ");
 		String name =in.nextLine();
 		
 		System.out.println("Please enter your salary: ");
