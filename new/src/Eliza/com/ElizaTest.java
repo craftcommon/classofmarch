@@ -1,10 +1,10 @@
+package Eliza.com;
 
-public class Addisprojectclass {
+public class ElizaTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-"Addis project"
+System.out.println("hello everyone");
 	}
 
 }
