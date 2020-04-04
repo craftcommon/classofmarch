@@ -9,7 +9,7 @@ public class members {
 		String m3="Gee, ";
 		String m4="Hafi, ";
 		String m5="Sib, ";
-		String m6 ="Matio";
+		String m6 ="Mario";
 		
 		System.out.println(m1);
 		System.out.println(m2);
