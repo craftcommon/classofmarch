@@ -1,10 +1,10 @@
 
-public class Addisprojectclass {
+public class anan2020a {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-"Addis project"
+        
+		Sytem.out.println("hello anan");
 	}
 
 }
