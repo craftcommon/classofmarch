@@ -7,7 +7,7 @@ public class main {
 		System.out.println("hello git");
 		System.out.println("Omaha grat");
 		System.out.println("Happy weekend ya'll!");
-        System.out.println("quarantine time");
+        System.out.println("quarantine time!");
 	}
 
 }
