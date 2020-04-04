@@ -1,6 +1,10 @@
 hello everybody;
 April 03, 2020
 
+subject: java class
+class start date: April 01, 2020
+class duration: 3 weeks
+
 
 
 thank you 
