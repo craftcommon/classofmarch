@@ -8,8 +8,5 @@ org.eclipse.jdt.core.compiler.debug.localVariable=generate
 org.eclipse.jdt.core.compiler.debug.sourceFile=generate
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
-<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.release=disabled
-=======
->>>>>>> branch 'master' of https://github.com/craftcommon/classofmarch.git
 org.eclipse.jdt.core.compiler.source=1.8
