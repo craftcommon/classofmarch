@@ -1,9 +1,9 @@
 
-public class Belias {
+public class AduJavaClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Hello there this is Netsnaet ");
+		System.out.println("hello world you are crzy");
 	}
 
 }
