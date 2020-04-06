@@ -2,7 +2,7 @@ package AkLabPkg;
 
 public class Calculator {
 	
-	public int a=40,b=10;
+	public int a=25,b=10;
 	
 	public void Add() {
 		//int a=20,b=5,c;
