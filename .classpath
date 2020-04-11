@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="FirstJava/src/|robel/src/|craft software.txt/March/src/|BBApp2/src/|craft software.txt/MyFourthJavaApp/src/|new/src/|craft software.txt/HIClass/src/|teamsib/src/|MyFirstJavaApp/src/|craft software.txt/merkebJavaProject/src/|craft software.txt/johnf/src/|Newproject/src/|sib/src/|craft software.txt/World2/src/|testproject/src/|World2/src/|craft software.txt/MahiFirstProject/src/|craft software.txt/MyJavaclass/src/|regasa2/src/|MahiFirstProject/src/|MyJavaclass/src/|yibe/src/|craft software.txt/FirstJava/src/|craft software.txt/Worldwide/src/|Netsanet_project/src/|Worldwide/src/|craft software.txt/MyFirstJavaApp/src/|craft software.txt/ClasseOfMarchAnt/src/|MyFourthJavaApp/src/|merkebJavaProject/src/|craft software.txt/Anteneh`sFirstJavaProject/src/|lastTry/src/|kasay/src/|craft software.txt/MarchMH/src/|craft software.txt/MySecondJavaApp/src/|MyFirstJavaProject/src/|Ananproject1/src/|craft software.txt/Amen java/|MyFirsJavaApp/src/|craft software.txt/Isuzu/src/|ClassOfMarchJavaApp/src/|craft software.txt/RegasaProject/src/|AkProje/src/|ClasseOfMarchAnt/src/|craft software.txt/Tafesse2Project/src/|teamMario/src/|regasa/src/|Anteneh`sFirstJavaProject/src/|Tafesse2Project/src/|johnf/src/|craft software.txt/yibe/src/|craft software.txt/regasa2/src/|fridayProject/src/|craft software.txt/MyFirsJavaApp/src/|craft software.txt/BBApp2/src/|craft software.txt/ClassOfMarchJavaApp/src/|March/src/|TeamMulesoft/src/|craft software.txt/AkProje/src/|HIClass/src/|RegasaProject/src/|Isuzu/src/|craft software.txt/Newproject/src/|Amen java/|craft software.txt/MyFirstJavaProject/src/|MarchMH/src/|MySecondJavaApp/src/|craft software.txt/" kind="src" path=""/>
+	<classpathentry kind="src" path="AkProje/src"/>
+	<classpathentry kind="src" path="Amen java"/>
+	<classpathentry kind="src" path="Ananproject1/src"/>
+	<classpathentry kind="src" path="Anteneh`sFirstJavaProject/src"/>
+	<classpathentry kind="src" path="BBApp2/src"/>
+	<classpathentry kind="src" path="ClasseOfMarchAnt/src"/>
+	<classpathentry kind="src" path="ClassOfMarchJavaApp/src"/>
+	<classpathentry excluding="March/src/|MyFourthJavaApp/src/|HIClass/src/|merkebJavaProject/src/|johnf/src/|World2/src/|MahiFirstProject/src/|MyJavaclass/src/|FirstJava/src/|Worldwide/src/|MyFirstJavaApp/src/|ClasseOfMarchAnt/src/|Anteneh`sFirstJavaProject/src/|MarchMH/src/|MySecondJavaApp/src/|Amen java/|Isuzu/src/|RegasaProject/src/|Tafesse2Project/src/|yibe/src/|regasa2/src/|MyFirsJavaApp/src/|BBApp2/src/|ClassOfMarchJavaApp/src/|AkProje/src/|Newproject/src/|MyFirstJavaProject/src/" kind="src" path="craft software.txt"/>
+	<classpathentry kind="src" path="craft software.txt/AkProje/src"/>
+	<classpathentry kind="src" path="craft software.txt/Amen java"/>
+	<classpathentry kind="src" path="craft software.txt/Anteneh`sFirstJavaProject/src"/>
+	<classpathentry kind="src" path="craft software.txt/BBApp2/src"/>
+	<classpathentry kind="src" path="craft software.txt/ClasseOfMarchAnt/src"/>
+	<classpathentry kind="src" path="craft software.txt/ClassOfMarchJavaApp/src"/>
+	<classpathentry kind="src" path="craft software.txt/FirstJava/src"/>
+	<classpathentry kind="src" path="craft software.txt/HIClass/src"/>
+	<classpathentry kind="src" path="craft software.txt/Isuzu/src"/>
+	<classpathentry kind="src" path="craft software.txt/johnf/src"/>
+	<classpathentry kind="src" path="craft software.txt/MahiFirstProject/src"/>
+	<classpathentry kind="src" path="craft software.txt/March/src"/>
+	<classpathentry kind="src" path="craft software.txt/MarchMH/src"/>
+	<classpathentry kind="src" path="craft software.txt/merkebJavaProject/src"/>
+	<classpathentry kind="src" path="craft software.txt/MyFirsJavaApp/src"/>
+	<classpathentry kind="src" path="craft software.txt/MyFirstJavaApp/src"/>
+	<classpathentry kind="src" path="craft software.txt/MyFirstJavaProject/src"/>
+	<classpathentry kind="src" path="craft software.txt/MyFourthJavaApp/src"/>
+	<classpathentry kind="src" path="craft software.txt/MyJavaclass/src"/>
+	<classpathentry kind="src" path="craft software.txt/MySecondJavaApp/src"/>
+	<classpathentry kind="src" path="craft software.txt/Newproject/src"/>
+	<classpathentry kind="src" path="craft software.txt/regasa2/src"/>
+	<classpathentry kind="src" path="craft software.txt/RegasaProject/src"/>
+	<classpathentry kind="src" path="craft software.txt/Tafesse2Project/src"/>
+	<classpathentry kind="src" path="craft software.txt/World2/src"/>
+	<classpathentry kind="src" path="craft software.txt/Worldwide/src"/>
+	<classpathentry kind="src" path="craft software.txt/yibe/src"/>
+	<classpathentry kind="src" path="FirstJava/src"/>
+	<classpathentry kind="src" path="fridayProject/src"/>
+	<classpathentry kind="src" path="HIClass/src"/>
+	<classpathentry kind="src" path="Isuzu/src"/>
+	<classpathentry kind="src" path="johnf/src"/>
+	<classpathentry kind="src" path="kasay/src"/>
+	<classpathentry kind="src" path="lastTry/src"/>
+	<classpathentry kind="src" path="MahiFirstProject/src"/>
+	<classpathentry kind="src" path="March/src"/>
+	<classpathentry kind="src" path="MarchMH/src"/>
+	<classpathentry kind="src" path="merkebJavaProject/src"/>
+	<classpathentry kind="src" path="MyFirsJavaApp/src"/>
+	<classpathentry kind="src" path="MyFirstJavaApp/src"/>
+	<classpathentry kind="src" path="MyFirstJavaProject/src"/>
+	<classpathentry kind="src" path="MyFourthJavaApp/src"/>
+	<classpathentry kind="src" path="MyJavaclass/src"/>
+	<classpathentry kind="src" path="MySecondJavaApp/src"/>
+	<classpathentry kind="src" path="Netsanet_project/src"/>
+	<classpathentry kind="src" path="new/src"/>
+	<classpathentry kind="src" path="Newproject/src"/>
+	<classpathentry kind="src" path="regasa/src"/>
+	<classpathentry kind="src" path="regasa2/src"/>
+	<classpathentry kind="src" path="RegasaProject/src"/>
+	<classpathentry kind="src" path="robel/src"/>
+	<classpathentry kind="src" path="sib/src"/>
+	<classpathentry kind="src" path="Tafesse2Project/src"/>
+	<classpathentry kind="src" path="teamMario/src"/>
+	<classpathentry kind="src" path="TeamMulesoft/src"/>
+	<classpathentry kind="src" path="teamsib/src"/>
+	<classpathentry kind="src" path="testproject/src"/>
+	<classpathentry kind="src" path="World2/src"/>
+	<classpathentry kind="src" path="Worldwide/src"/>
+	<classpathentry kind="src" path="yibe/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
