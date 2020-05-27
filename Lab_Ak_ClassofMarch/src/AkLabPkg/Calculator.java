@@ -1,14 +1,17 @@
 package AkLabPkg;
 
 public class Calculator {
+	
+	public int a=20,b=10;
+	
 	public void Add() {
-		int a=20,b=5,c;
-		c=a+b;
+		//int a=20,b=5,c;
+		int c=a+b;
 		System.out.println("The sum of two numbers are:"+c);
 	}
 	public void Sub() {
-		int a=40,b=20,c;
-		c=a-b;
+		//int a=40,b=20,c;
+		int c=a-b;
 		System.out.println("The diffrence of two numbers are:"+c);
 	}
    
